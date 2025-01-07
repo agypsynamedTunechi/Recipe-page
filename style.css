@@ -137,7 +137,7 @@ footer{
 }
 
 
-@media (min-width: 768px){
+@media (min-width: 769px){
     body{
         width: 100%;
         background: var(--stone-100);
