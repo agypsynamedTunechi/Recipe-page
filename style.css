@@ -130,6 +130,15 @@ footer{
     margin: 3em 0;
 }
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
 @media (max-width: 371px){
     h1{
         font-size: 2.2rem;
